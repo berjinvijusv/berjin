@@ -1,1 +1,32 @@
-berjin is skillerzz off
+new test case file scenarios
+Transition change in CMS from ceated to closed 
+   --> Login to clari5-cc
+   --> navigate to efm 
+   --> navigate to CMS
+   --> search an alert using top right search
+   --> Do a transition and check whether it is closed or not
+   
+file upload in CMS 
+   --> Login to clari5-cc
+   --> navigate to efm 
+   --> navigate to CMS
+   --> search an alert using top right search
+   --> upload a attachment in the alert and check the attachment is uploaded or not
+   
+
+comment and in CMS 
+   --> Login to clari5-cc
+   --> navigate to efm 
+   --> navigate to CMS
+   --> search an alert using top right search
+   --> add a comment in the alert and check the comment is updated or not
+
+
+download attachment in CMS 
+   --> Login to clari5-cc
+   --> navigate to efm 
+   --> navigate to CMS
+   --> search an alert using top right search
+   --> upload a attachment in the alert and check the attachment is uploaded or not
+   --> download the added attachment from CMS alert
+
